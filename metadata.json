@@ -1,0 +1,21 @@
+{
+  "name": "RADD Influencer ViewShots App v3.3",
+  "version": "1.0.0",
+  "description": "An AI-powered image recomposition tool for creators and influencers that generates consistent multi-angle shots using Gemini.",
+  "author": "Raki AI Digital DEN",
+  "license": "RADD Proprietary License",
+  "copyright": "© 2025 Raki AI Digital DEN. All Rights Reserved.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/radd-influencer-viewshots"
+  },
+  "keywords": [
+    "RADD",
+    "AI Photography",
+    "Gemini",
+    "Influencer",
+    "ViewShots",
+    "Image Generator"
+  ],
+  "requestFramePermissions": []
+}
